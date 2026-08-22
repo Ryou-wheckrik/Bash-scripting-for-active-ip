@@ -1,20 +1,20 @@
-# Bash-scripting_grep-for-active-ip
+# Bash-scripting_grep-for-active-ip 
 Simple bash script for taking active ip address from website/ip address
 
-#Purpose ✍
+# Purpose ✍
 This project was maden for practice with:
--Bash scripting
--Linux terminal (COMMAND LINE)
--Networking fundamental
--Kali linux
+- Bash scripting
+- Linux terminal (COMMAND LINE)
+- Networking fundamental
+- Kali linux
 
-#Requirements 
--Virtual Machine (VMware, Virtualbox)
--Kali linux
--Bash
--Network
+# Requirements 💻
+- Virtual Machine (VMware, Virtualbox)
+- Kali linux
+- Bash
+- Network
 
-#Usage
-''bash
-chmode+x scripting-net.sh
-scripting-net.sh
+# Usage 📃
+```bash
+chmode +x scripting-net.sh
+./scripting-net.sh [ip address]
