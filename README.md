@@ -17,4 +17,4 @@ This project was maden for practice with:
 # Usage 📃
 ```bash
 chmode +x scripting-net.sh
-./scripting-net.sh [ip address]
+./scripting-net.sh [3 oktet of ip address]
